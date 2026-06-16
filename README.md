@@ -1,6 +1,6 @@
-# 🛡️ Mediar-AI / Terminator - Bitdefender Exception Workflow
+# 🛡️ Mediar-AI - Bitdefender Exception Workflow
 
-Automate the process of adding **Mediar** to **Bitdefender Antivirus** exceptions to prevent false-positive deletions during installation.
+Automate the process of adding **Mediar** to **Bitdefender Antivirus** exceptions via Terminator[.exe] to prevent false-positive deletions during installation.
 
 ---
 
