@@ -2,11 +2,18 @@
 
 Automate the process of adding **Mediar** to **Bitdefender Antivirus** exceptions to prevent false-positive deletions during installation.
 
+---
+
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="30" height="22"> Proof Of Workflow 
-> [![Watch the workflow in action](https://img.youtube.com/vi/R8gSaeEPBoE/0.jpg)](https://www.youtube.com/watch?v=R8gSaeEPBoE)
+[![Watch the workflow in action](https://img.youtube.com/vi/R8gSaeEPBoE/0.jpg)](https://www.youtube.com/watch?v=R8gSaeEPBoE)
 
 ---
 
+## 🌟 Feedback
+ 
+![Lead Dev @m13v](/assets/mediarAI.png) 
+
+---
 ## 🚀 Overview
 Some users experience issues where Bitdefender automatically flags and removes the Mediar application. This workflow automates the configuration of security exceptions to ensure a smooth installation experience.
 
@@ -54,4 +61,3 @@ Before starting, follow these steps to ensure a coordinated effort:
 - [x] Task claimed via `/attempt`.
 
 ---
-*Built for seamless security and automation.*
